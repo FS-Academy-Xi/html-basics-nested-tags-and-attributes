@@ -77,12 +77,12 @@ which links a piece of text to another location on our own web page or another
 web page.
 
 ```html
-  <a href="https://flatironschool.com/">Flatiron School</a>
+  <a href="https://academyxi.com/">Academy Xi</a>
 ```
 
 Here we use the `href` attribute to tell the HTML tag where the destination of
 the linked text should be. Without this information, our link won't work and we
-won't be able to send more people to the Flatiron School website. Certain
+won't be able to send more people to the Academy Xi website. Certain
 attributes go hand in hand with certain HTML tags, and as you learn the tags,
 you'll learn their attributes.
 
